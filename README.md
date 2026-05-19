@@ -27,6 +27,7 @@
         </a>
     </div>
 </div>
+
 ## 🔎 Method Overview
 
 ###  Motivation
@@ -35,7 +36,7 @@
 
 ###  Framework
 
-<img src="figure/framework.png" width="80%"/>
+<img src="figure/2.png" width="90%"/>
 
 ## 🛠️ Create Environment
 
