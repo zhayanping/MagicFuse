@@ -32,7 +32,7 @@
 
 ###  Motivation
 
-<img src="figure/1.png" width="50%"/>
+<img src="figure/1.png" width="60%"/>
 
 ###  Framework
 
