@@ -82,11 +82,10 @@ Our project adopts a distributed training mode, you can modify the relevant sett
 ⚡ `test4largeImg.ipynb`  Specifically developed for testing large-size images. It adopts a dynamic model loading strategy to effectively save GPU memory usage.
 
 ````
-@inproceedings{zhang2024mrfs,
-  title={MRFS: Mutually Reinforcing Image Fusion and Segmentation},
-  author={Zhang, Hao and Zuo, Xuhui and Jiang, Jie and Guo, Chunchao and Ma, Jiayi},
+@inproceedings{zhang2026magic,
+  title={MagicFuse: Single image fusion for visual and semantic reinforcement},
+  author={Zhang, Hao and Zha, Yanping and Li, Zizhuo and Gong, Meiqi and Ma, Jiayi},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={26974--26983},
-  year={2024}
+  year={2026}
 }
 ````
