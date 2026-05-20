@@ -81,6 +81,7 @@ Our project adopts a distributed training mode, you can modify the relevant sett
 
 ⚡ `test4largeImg.ipynb`  Specifically developed for testing large-size images. It adopts a dynamic model loading strategy to effectively save GPU memory usage.
 
+If this work is helpful to you, please cite it as:
 ````
 @inproceedings{zhang2026magic,
   title={MagicFuse: Single image fusion for visual and semantic reinforcement},
