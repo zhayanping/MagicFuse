@@ -6,8 +6,8 @@
     <div>
         <a href='https://github.com/HaoZhang1018' target='_blank' style="text-decoration: none !important;">Hao Zhang<sup>1*</sup></a>,&emsp;
         <a href='https://github.com/zhayanping' target='_blank' style="text-decoration: none !important;">Yanping Zha<sup>1*</sup></a>,&emsp;
-        <a href='#' target='_blank' style="text-decoration: none !important;">Zizhuo Li<sup>1</sup></a>,&emsp;
-        <a href='#' target='_blank' style="text-decoration: none !important;">Meiqi Gong<sup>1</sup></a>,&emsp;
+        <a href='https://github.com/ZizhuoLi' target='_blank' style="text-decoration: none !important;">Zizhuo Li<sup>1</sup></a>,&emsp;
+        <a href='https://github.com/Meiqi-Gong' target='_blank' style="text-decoration: none !important;">Meiqi Gong<sup>1</sup></a>,&emsp;
         <a href='https://sites.google.com/site/jiayima2013' target='_blank' style="text-decoration: none !important;">Jiayi Ma<sup>1&#8224;</sup></a>
     </div>
     <div>
