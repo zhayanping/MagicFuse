@@ -80,3 +80,13 @@ Our project adopts a distributed training mode, you can modify the relevant sett
 ⚡ `test.py`  Designed for large-scale image testing tasks. This script supports multi-GPU parallel testing to efficiently process large batches of images. If you need to adjust the image size for testing, you can configure it in the `dataset.py` file.
 
 ⚡ `test4largeImg.ipynb`  Specifically developed for testing large-size images. It adopts a dynamic model loading strategy to effectively save GPU memory usage.
+
+````
+@inproceedings{zhang2024mrfs,
+  title={MRFS: Mutually Reinforcing Image Fusion and Segmentation},
+  author={Zhang, Hao and Zuo, Xuhui and Jiang, Jie and Guo, Chunchao and Ma, Jiayi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26974--26983},
+  year={2024}
+}
+````
