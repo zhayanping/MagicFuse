@@ -87,6 +87,7 @@ If this work is helpful to you, please cite it as:
   title={MagicFuse: Single image fusion for visual and semantic reinforcement},
   author={Zhang, Hao and Zha, Yanping and Li, Zizhuo and Gong, Meiqi and Ma, Jiayi},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26551--26560},
   year={2026}
 }
 ````
